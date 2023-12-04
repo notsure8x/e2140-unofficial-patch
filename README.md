@@ -19,7 +19,7 @@ Please refer to [Troubleshooting](##Troubleshooting) in case of administrator ri
 1. Download the latest patch release (TODO: link package)
 2. Extract the archive and/or copy all files (e2140-patch-installer.exe + e2140-unofficial-patch.dll) to Earth 2140 Trilogy installation directory (like "C:/GOG Games/Earth 2140")
 3. Run **e2140-patch-installer.exe** inside Earth 2140 Trilogy directory. You should be notified that patching was either successful or failed. 
-5. Run the game from the GOG Galaxy client or the desktop shortcut, if you have one. Enjoy the game!
+5. Run the game from the GOG Galaxy client or the desktop shortcut, if you have one. Enjoy AI swarming your base in waves!
 
 **NOTE 1:** Old save games will not work. You either need to load your save game and restart the mission or play the campaign from the beginning.
 
@@ -34,26 +34,26 @@ Before releasing the package, all files are checked with the [VirusTotal](https:
 1. Go to the project's GitHub [issues](https://github.com/notsure8x/e2140-unofficial-patch/issues) and check if a similar bug has not been already reported.
 2. Open an issue (New issue), describe the bug, describe your OS version and basic HW specification. Attach a savegame.
 3. You can also visit discord channels to look for support from @noture_8x and other community members
-- [InsideEarth Discord channel #e2140-unofficial-patch](https://discord.com/channels/572336961143177216/1179833100805619763)
+- [InsideEarth Discord channel #e2140-unofficial-patch](https://discord.com/channels/572336961143177216/1179834300414296124)
 - [OpenE2140 Discord channel   #earth-unofficial-patch](https://discord.com/channels/1080437044884553799/1155957226100498462) 
 
 ## Bugs status
 
-Please check [Changelog](./CHANGELOG.MD) for detailed information.
+Check [Changelog](./CHANGELOG.md) for detailed information about patch versions.
 
 - **[FIXED]** AI players are not producing any units in their construction centers and factories
 - **[FIXED]** Virtual generals are not working
 - **[FIXED]** Minelaying units do not lay mines (MP2, UCS, The New Outpost,M01)
 - **[FIXED]** Game crashes when KT30 attacks enemy building
 - **[FIXED]** Game wipes out AI-related data when loaded from "save game"
-- **[FIXED]** Building windows get transparent instead of black when power is turned off - reported by michael.dgg.2 :)
+- **[FIXED]** Building's windows are transparent instead of black when power is turned off - reported by michaeldgg2 :)
 - **[FIXED]** Tracked units tracks are transparent instead of black
 - [*IN PROGRESS*] Ocasionally, AI player stucks producing an abnormal amount of HAT, TUR or BTTI units.
 
 ## Special thanks
-Big thanks to Animal from InsideEarth community for helping with connecting with its members. 
+Big thanks to Animal from InsideEarth community for helping with connecting with its members.
 
-Special thanks to michael.dgg.2 and IceReaper from OpenE2140 development team for long discussions about not very known quirks, bugs and features of the original Earth 2140 game! 
+Special thanks to michaeldgg2 and IceReaper from OpenE2140 development team for long discussions about not very known quirks, bugs and features of the original Earth 2140 game! 
 
 ## Third party libraries
 
