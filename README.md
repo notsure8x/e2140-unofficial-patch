@@ -16,8 +16,8 @@ E2140 Unofficial Patch is compatible **ONLY** with **Earth 2140 Trilogy** releas
 
 Please refer to [Troubleshooting](##Troubleshooting) in case of administrator rights issues or anti-virus warnings.
 
-1. Download the latest patch release (TODO: link package)
-2. Extract the archive and/or copy all files (e2140-patch-installer.exe + e2140-unofficial-patch.dll) to Earth 2140 Trilogy installation directory (like "C:/GOG Games/Earth 2140")
+1. Download the latest patch [release](https://github.com/notsure8x/e2140-unofficial-patch/releases).
+2. Extract the archive and/or copy all files (e2140-patch-installer.exe + e2140-unofficial-patch.dll) to Earth 2140 Trilogy installation directory (like "C:/GOG Games/Earth 2140").
 3. Run **e2140-patch-installer.exe** inside Earth 2140 Trilogy directory. You should be notified that patching was either successful or failed. 
 5. Run the game from the GOG Galaxy client or the desktop shortcut, if you have one. Enjoy AI swarming your base in waves!
 
