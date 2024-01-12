@@ -7,10 +7,10 @@ Further versions of this patch may introduce improvements beyond the original ga
 
 For a modern remake of Earth 2140, please check out and support [OpenE2140](https://github.com/OpenE2140/OpenE2140) project that is currently in development by another team!
 
-## Patch compatibility
-E2140 Unofficial Patch is compatible **ONLY** with **Earth 2140 Trilogy** released by Reality Pump Studios / Topware Interactive on the [GOG platform](https://www.gog.com/en/game/earth_2140_trilogy).
+**Newest version of the patch is 1.1.0.**
 
-**WARNING**: Do not try to run this patch with any of the **Steam** versions of the game or any other DRM-protected releases! It was not tested with those and may end up with suspending or banning your account. Please refer to [Disclaimer](#Disclaimer).
+## Patch compatibility
+E2140 Unofficial Patch is currently compatible **ONLY** with **Earth 2140 Trilogy** released by Reality Pump Studios / Topware Interactive on the [GOG platform](https://www.gog.com/en/game/earth_2140_trilogy).
 
 ## Getting started
 
@@ -18,8 +18,8 @@ Please refer to [Troubleshooting](##Troubleshooting) in case of administrator ri
 
 1. Download the latest patch [release](https://github.com/notsure8x/e2140-unofficial-patch/releases).
 2. Extract the archive and/or copy all files (e2140-patch-installer.exe + e2140-unofficial-patch.dll) to Earth 2140 Trilogy installation directory (like "C:/GOG Games/Earth 2140").
-3. Run **e2140-patch-installer.exe** inside Earth 2140 Trilogy directory. You should be notified that patching was either successful or failed. 
-5. Run the game from the GOG Galaxy client or the desktop shortcut, if you have one. Enjoy AI swarming your base in waves!
+3. Run **e2140-patch-installer.exe** inside Earth 2140 Trilogy directory. You should be notified that patching was either successful or failed. SKIP THIS STEP IF YOU ARE ALREADY HAVE PREVIOUS PATCH INSTALLED, JUST OVERWRITE PREVIOUS e2140-unofficial-patch.dll FILE AND GO TO STEP 3.
+4. Run the game from the GOG Galaxy client or the desktop shortcut, if you have one. Enjoy AI swarming your base in waves!
 
 **NOTE 1:** Old save games will not work. You either need to load your save game and restart the mission or play the campaign from the beginning.
 
@@ -48,10 +48,15 @@ Check [Changelog](./CHANGELOG.md) for detailed information about patch versions.
 - **[FIXED]** Game wipes out AI-related data when loaded from "save game"
 - **[FIXED]** Building's windows are transparent instead of black when power is turned off - reported by michaeldgg2 :)
 - **[FIXED]** Tracked units tracks are transparent instead of black
-- [*IN PROGRESS*] Ocasionally, AI player stucks producing an abnormal amount of HAT, TUR or BTTI units.
+- **[FIXED]** Ocasionally, AI player stucks producing an abnormal amount of HAT, TUR or BTTI units.
+- **[FIXED]** Buggy and missing sound effects for weapons and explosions especially in battles. Buggy sound effects for Heavy Lifter, WTP100, helicopters, HAT.
+- **[FIXED]** Unit keyboard hotkeys (like 's' to stop) sometimes doesn't work
+- **[FIXED]** Restored 'm' keyboard shortcut functionality for miner units
+- **[IMPROVED]** Mouse lock/unlock support when game is run in windowed mode (for streaming)
+- **[IMPROVED]** ALT+F4 & close window button are now almost working correctly (except database view and when playing cutscenes)
 
 ## Special thanks
-Big thanks to Animal from InsideEarth community for helping with connecting with its members.
+Big thanks to the Animal from InsideEarth community for helping with connecting with its members.
 
 Special thanks to michaeldgg2 and IceReaper from OpenE2140 development team for long discussions about not very known quirks, bugs and features of the original Earth 2140 game! 
 
