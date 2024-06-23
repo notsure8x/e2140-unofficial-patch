@@ -24,7 +24,7 @@ Please refer to [Troubleshooting](##Troubleshooting) in case of administrator ri
 
 **Earth 2140 HD (Steam)**
 1. Download the latest patch [release](https://github.com/notsure8x/e2140-unofficial-patch/releases).
-2. Extract the zip archive and/or copy all files (e2140-patch-installer.exe + e2140-unofficial-patch.dll) to Earth 2140 HD installation directory (like "C:/Steam/steamapps/common/Earth 2140"). 
+2. Extract the zip archive and/or copy all files (e2140-patch-installer.exe + e2140-unofficial-patch.dll + SDL.dll + SDL_mixer.dll) to Earth 2140 HD installation directory (like "C:/Steam/steamapps/common/Earth 2140"). 
 
 If your Steam game installation directory is non-standard, open Steam client, select Earth 2140 HD in your library, right click on it, open Manage menu. From Manage menu, click on "Browse Local Files". This should open game installation directory and this is where you need to put the patch files.
 

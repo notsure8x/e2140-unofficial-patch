@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.2.0 hot fix
+
+**Hot fix for missing SDL.dll and SDL_mixer.dll bug when running patched Earth 2140 HD Steam version.**
+
 ## 1.2.0
 
 Key feature is the basic support for the "Earth 2140 HD" released on Steam. There are some quality of life features missing, like ALT+F4 support, better mouse locking/unlocking in windowed mode, etc - those will be delivered in the future patches to make parity with GoG patch.
