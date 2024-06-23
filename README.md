@@ -7,7 +7,7 @@ Further versions of this patch may introduce improvements beyond the original ga
 
 For a modern remake of Earth 2140, please check out and support [OpenE2140](https://github.com/OpenE2140/OpenE2140) project that is currently in development by another team!
 
-**Newest version of the patch is 1.2.0.**
+**Newest version of the patch is 1.2.1.**
 
 ## Patch compatibility
 E2140 Unofficial Patch is compatible with Earth 2140 Trilogy released on GOG platform (https://www.gog.com/en/game/earth_2140_trilogy) and Earth 2140 HD released on Steam (https://store.steampowered.com/app/253860/Earth_2140/). Patch will not work with any other releases eg. Classic XP and others.
@@ -28,7 +28,7 @@ Please refer to [Troubleshooting](##Troubleshooting) in case of administrator ri
 
 If your Steam game installation directory is non-standard, open Steam client, select Earth 2140 HD in your library, right click on it, open Manage menu. From Manage menu, click on "Browse Local Files". This should open game installation directory and this is where you need to put the patch files.
 
-3. Run e2140-patch-installer.exe inside Earth 2140 HD directory. You should be notified that patching was either successful or failed. SKIP THIS STEP IF YOU ARE ALREADY HAVE PREVIOUS PATCH INSTALLED, JUST OVERWRITE PREVIOUS e2140-unofficial-patch.dll FILE AND GO TO STEP 3.
+3. Run e2140-patch-installer.exe inside Earth 2140 HD directory. You should be notified that patching was either successful or failed. SKIP THIS STEP IF YOU ALREADY HAVE PREVIOUS PATCH INSTALLED, JUST OVERWRITE PREVIOUS e2140-unofficial-patch.dll FILE AND GO TO STEP 3.
 4. Run the game from the Steam client or the desktop shortcut, if you have one. Enjoy AI swarming your base in waves!
 
 **NOTE 1:** Old save games will not work. You either need to load your save game and restart the mission or play the campaign from the beginning.

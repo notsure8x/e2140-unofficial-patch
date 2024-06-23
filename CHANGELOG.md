@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.2.1
+
+### Earth 2140 HD (Steam)
+- Fix game crash after "mission accomplished" screen (issue introduced after porting 's' hotkey fix from original GOG patch)
+
 ## 1.2.0 hot fix
 
 **Hot fix for missing SDL.dll and SDL_mixer.dll bug when running patched Earth 2140 HD Steam version.**
