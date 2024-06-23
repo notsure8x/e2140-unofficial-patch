@@ -29,6 +29,7 @@ Please refer to [Troubleshooting](##Troubleshooting) in case of administrator ri
 If your Steam game installation directory is non-standard, open Steam client, select Earth 2140 HD in your library, right click on it, open Manage menu. From Manage menu, click on "Browse Local Files". This should open game installation directory and this is where you need to put the patch files.
 
 3. Run e2140-patch-installer.exe inside Earth 2140 HD directory. You should be notified that patching was either successful or failed. SKIP THIS STEP IF YOU ALREADY HAVE PREVIOUS PATCH INSTALLED, JUST OVERWRITE PREVIOUS e2140-unofficial-patch.dll FILE AND GO TO STEP 3.
+
 4. Run the game from the Steam client or the desktop shortcut, if you have one. Enjoy AI swarming your base in waves!
 
 **NOTE 1:** Old save games will not work. You either need to load your save game and restart the mission or play the campaign from the beginning.
