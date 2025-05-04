@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.3.0
+
+Major change is added support for GOG's Earth 2140 Trilogy 1.1 version, which is same as the HD version minus Steam overlay. 
+
+### Earth 2140 Steam HD version
+- Fixed reversed sound/speech volume controls in "Controls" menu
+- Fixed broken Heavy Lifter / Helicopters / others movement sound
+
+### Patch installer 
+- Removed the WinCrypt API dependency used for calculating game executable checksums. This should make it easier to install the patch under Wine or other Windows compatibility layers on Linux.
+
+
 ## 1.2.1
 
 ### Earth 2140 HD (Steam)

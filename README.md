@@ -1,13 +1,13 @@
 # E2140 Unofficial Patch
 
 ## Intro
-The goal of this patch is to address the issues found in the Windows version of both **Earth 2140 Trilogy** (GOG) and **Earth 2140 HD** (Steam), which are not present in the original DOS version of the game. Both mentioned releases have many issues including an almost completely passive enemy AI player, non-working "virtual generals" feature and many others. 
+I made this patch to fix issues found in the Windows version of both **Earth 2140 Trilogy** (GOG) and **Earth 2140 HD** (Steam), which aren't present in the original DOS version of the game. Both  releases have many issues including an almost completely passive enemy AI player, non-working "virtual generals" feature, broken sound and many others. 
 
 Further versions of this patch may introduce improvements beyond the original game content, however those will be focused on possible AI improvements rather than graphics or UI improvements. 
 
 For a modern remake of Earth 2140, please check out and support [OpenE2140](https://github.com/OpenE2140/OpenE2140) project that is currently in development by another team!
 
-**Newest version of the patch is 1.2.1.**
+**Newest version of the patch is 1.3.0.**
 
 ## Patch compatibility
 E2140 Unofficial Patch is compatible with Earth 2140 Trilogy released on GOG platform (https://www.gog.com/en/game/earth_2140_trilogy) and Earth 2140 HD released on Steam (https://store.steampowered.com/app/253860/Earth_2140/). Patch will not work with any other releases eg. Classic XP and others.
@@ -66,7 +66,7 @@ Check [Changelog](./CHANGELOG.md) for detailed information about patch versions.
 - **[FIXED]** Buggy and missing sound effects for weapons and explosions especially in battles. Buggy sound effects for Heavy Lifter, WTP100, helicopters, HAT.
 - **[FIXED]** Unit keyboard hotkeys (like 's' to stop) sometimes doesn't work
 
-**Only GOG**
+**Only GOG 1.0 version (not HD)**
 - **[IMPROVED]** Mouse lock/unlock support when game is run in windowed mode (for streaming)
 - **[IMPROVED]** ALT+F4 & close window button are now almost working correctly (except database view and when playing cutscenes)
 
