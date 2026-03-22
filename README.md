@@ -7,7 +7,7 @@ Further versions of this patch may introduce improvements beyond the original ga
 
 For a modern remake of Earth 2140, please check out and support [OpenE2140](https://github.com/OpenE2140/OpenE2140) project that is currently in development by another team!
 
-**Newest version of the patch is 1.3.0.**
+**Newest version of the patch is 1.4.0.**
 
 ## Patch compatibility
 E2140 Unofficial Patch is compatible with Earth 2140 Trilogy released on GOG platform (https://www.gog.com/en/game/earth_2140_trilogy) and Earth 2140 HD released on Steam (https://store.steampowered.com/app/253860/Earth_2140/). Patch will not work with any other releases eg. Classic XP and others.
@@ -65,6 +65,7 @@ Check [Changelog](./CHANGELOG.md) for detailed information about patch versions.
 - **[FIXED]** Ocasionally, AI player stucks producing an abnormal amount of HAT, TUR or BTTI units.
 - **[FIXED]** Buggy and missing sound effects for weapons and explosions especially in battles. Buggy sound effects for Heavy Lifter, WTP100, helicopters, HAT.
 - **[FIXED]** Unit keyboard hotkeys (like 's' to stop) sometimes doesn't work
+- **[FIXED]** Mission 6 and 7 were missing from first UCS/ED campaigns in the base game
 
 **Only GOG 1.0 version (not HD)**
 - **[IMPROVED]** Mouse lock/unlock support when game is run in windowed mode (for streaming)

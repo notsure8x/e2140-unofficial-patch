@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.4.0
+
+Minor bug fix for campaigns
+
+### Earth 2140 GOG and Steam HD version
+
+- Fixed missing mission 6 and 7 in first UCS/ED campaign from the base game
+
+
 ## 1.3.0
 
 Major change is added support for GOG's Earth 2140 Trilogy 1.1 version, which is same as the HD version minus Steam overlay. 
